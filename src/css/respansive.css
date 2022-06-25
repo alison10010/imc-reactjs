@@ -1,0 +1,10 @@
+@media (max-width: 610px){
+    .corpoPage{
+        padding: 10px 10px 10px 10px;
+    }
+}
+@media (max-width: 610px){
+    h1{
+        font-size: 28px;
+    }
+}
